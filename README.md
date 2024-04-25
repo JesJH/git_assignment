@@ -1,1 +1,1 @@
-# Git Assignment - <JesJH>
+# Git Assignment - JesJH
