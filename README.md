@@ -9,8 +9,17 @@ It allows collaborators to review and discuss proposed set of changes before int
 main codebase.
 
 c. How do I open up a pull request?
+On the Github website, go to the main repository. From the branch menu, select the branch
+that contains the commits you are trying to review. Click on the button at the top that says
+"Compare & pull request" to compare what changes have been made in the request.
 
 d. Give me a step by step guide on how to add someone to your repository.
+On Github.com, go to the repository you want to give collaborators access to. Click on
+'Settings' right next to the 'Insights' button. This takes you to a new page. On the left
+side of the page, under 'Access', click on 'Collaborators'.This will prompt you to type in
+your Github password. After entering your password, click on 'Add People' and add collaborators
+to your repository using either their email address, full name or Github username.
+
 
 e. What is the difference between git and GitHub?
 
